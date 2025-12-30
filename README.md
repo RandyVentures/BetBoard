@@ -2,6 +2,11 @@
 
 Sports odds + news terminal MVP. This is a non-touting awareness tool that surfaces market odds, movement, and headlines.
 
+## Screenshots
+
+![BetBoard Settings](assets/screenshots/BetBoardCFB.jpg)
+![BetBoard NFL](assets/screenshots/BetBoardNFL.jpg)
+
 ## Quick start
 
 ```bash
