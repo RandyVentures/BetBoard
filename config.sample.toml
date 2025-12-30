@@ -1,0 +1,27 @@
+[app]
+refresh_ui_seconds = 30
+
+[oddsapi]
+enabled = true
+api_key_env = "ODDS_API_KEY"
+api_key = ""
+regions = "us"
+odds_format = "american"
+markets = ["h2h","spreads","totals"]
+
+[leagues]
+nfl_key = "americanfootball_nfl"
+cfb_key = "americanfootball_ncaaf"
+ufc_key = ""
+
+[caching]
+events_ttl_minutes = 720
+odds_ttl_minutes = 360
+news_ttl_minutes = 120
+
+[watchlist]
+odds_ttl_minutes_within_24h = 15
+odds_ttl_minutes_within_3h = 5
+
+[books]
+allow = []

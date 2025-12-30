@@ -1,0 +1,21 @@
+Screen {
+    background: #0f172a;
+    color: #e2e8f0;
+}
+
+.pane-row {
+    height: 1fr;
+}
+
+.pane {
+    border: solid #334155;
+    padding: 1;
+    width: 1fr;
+}
+
+#status {
+    height: 1;
+    padding: 0 1;
+    background: #111827;
+    color: #fbbf24;
+}

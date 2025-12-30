@@ -1,0 +1,26 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.dist-info/
+.venv/
+.env/
+.pytest_cache/
+
+# macOS
+.DS_Store
+
+# Swift/Xcode
+.build/
+.swiftpm/
+DerivedData/
+*.xcodeproj/
+*.xcworkspace/
+*.xcuserdata/
+
+# Releases
+/dist/
+
+# Editors
+.idea/
+.vscode/
